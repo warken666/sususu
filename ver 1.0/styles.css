@@ -1,0 +1,290 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #2f2f2f;
+  /* color: #ffffff; */
+}
+
+.background {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background-color: #000000c8;
+  background-image: url("bg/skadi.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.535);
+}
+
+.header {
+  background: rgb(50, 170, 100);
+  background: linear-gradient(
+    22deg,
+    rgba(50, 170, 100, 1) 0%,
+    rgba(30, 65, 124, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 0px;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  transition: height 0.1s ease, padding 0.3s ease;
+}
+
+.header:hover {
+  height: 50px;
+  padding: 20px 0;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.search-container {
+  justify-self: center;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  border-radius: 10px; /* Menggunakan sudut yang tumpul dengan nilai border-radius */
+  transition: width 0.3s ease;
+  box-shadow: 0px 1px 5px #3e139b9f;
+}
+
+.search-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center; /* Tambahkan properti ini */
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.microscope-icon {
+  width: 24px;
+  height: 24px;
+  transition: opacity 0.1s ease;
+  position: absolute;
+}
+
+input {
+  background-color: #ffffff;
+  color: #ffffff00;
+  width: 0;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding: 0 20px;
+  box-sizing: border-box;
+  /* transition: width 0.3s ease; */
+  transition: opacity 0.3s ease;
+}
+
+.search-container:hover {
+  /* background-color: #ff000000; */
+  width: 400px;
+}
+
+.search-box:hover {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  color: #000000;
+}
+.search-container:hover input {
+  background-color: #ff000000;
+  width: 100%;
+  color: #000000;
+}
+
+.search-container:hover .microscope-icon {
+  opacity: 0;
+}
+
+.bookmarks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.card {
+  background-color: rgb(25, 25, 25);
+  border: 1px solid #272727;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 250px;
+  margin: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card a {
+  text-decoration: none;
+  color: #333;
+  display: block;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #272727;
+}
+
+.card h3 {
+  padding: 10px;
+  margin: 0;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.scheduleTable {
+  /* background-color: #000000; */
+  display: flex;
+  justify-content: center;
+}
+
+.scheduleTable table {
+  border-collapse: separate;
+  border-spacing: 3px 3px;
+}
+
+/* .scheduleTable tr {
+  background-color: red;
+} */
+
+.scheduleTable th {
+  background-color: #000000;
+  letter-spacing: 2px;
+  border-radius: 5px 5px 0 0;
+  /* border: 3px solid rgb(16, 123, 133); */
+}
+
+.scheduleTable th,
+td {
+  /* width: 70px; */
+  padding: 10px 20px;
+  /* background-color: rgba(255, 255, 255, 0.2); */
+  color: #fff;
+}
+
+.scheduleTable tbody {
+  background-color: #ffffff;
+}
+
+.scheduleTable td {
+  background-color: #00000023;
+  text-align: center;
+  padding: 20px;
+}
+
+.scheduleTable .container {
+  /* background-color: rgb(0, 0, 0); */
+  padding: 0;
+}
+
+.scheduleTable a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 0 40px;
+}
+
+.scheduleTable a:hover {
+  text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+
+.characterButton {
+  background-color: rgb(0, 5, 29);
+  /* background-color: #333; */
+  position: fixed;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  gap: 40%;
+}
+
+.hiddenElements {
+  display: none;
+}
+
+.characterButton img {
+  /* background: red; */
+  overflow: visible;
+  z-index: 9999;
+  position: fixed;
+  bottom: 0;
+  width: 30%;
+  transform: translate(100px, 100px);
+  filter: drop-shadow(0 0 10px rgba(8, 175, 169, 0));
+  transition: filter 0.001s ease-in-out;
+}
+
+.audioConfig {
+  width: 30%;
+}
+
+.slider {
+  overflow: visible;
+  z-index: 9999;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 20px 15px;
+  -webkit-appearance: none;
+  width: 150px;
+  height: 1px;
+  background: #ffffff;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: rgb(0, 255, 238);
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #04aa6d;
+  cursor: pointer;
+}

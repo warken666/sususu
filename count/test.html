@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Table Vertikal</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,200"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,300,0,200"
+    />
+  </head>
+  <body>
+    <div class="mainContent">
+      <div class="calenderObject">
+        <button class="navButton" onclick="showPreviousWeek()">
+          <span class="material-symbols-outlined"> expand_less </span>
+        </button>
+
+        <table id="verticalTable"></table>
+
+        <button class="navButton" onclick="showNextWeek()">
+          <span class="material-symbols-outlined"> expand_more </span>
+        </button>
+        <button class="navButton" onclick="showToday()">HARI INI</button>
+      </div>
+      <div id="counterEditor" class="hidden">
+        <div id="output-box" class="counterEditorOutput">0</div>
+        <div class="counterEditorButton plus5" onclick="addToOutput(5)">+5</div>
+        <div class="counterEditorButton plus10" onclick="addToOutput(10)">
+          +10
+        </div>
+        <div class="counterEditorButton ok" onclick="ok()">ok</div>
+        <div class="counterEditorButton reset" onclick="resetOutput()">
+          reset
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bookmark Viewer</title>
+  </head>
+  <body>
+    <h2>Bookmark Viewer</h2>
+    <ul id="bookmarkList"></ul>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        // Cek apakah ada data bookmark di local storage
+        var storedBookmarks = localStorage.getItem("bookmarks");
+        var bookmarkList = document.getElementById("bookmarkList");
+
+        // Jika ada, tampilkan bookmark
+        if (storedBookmarks) {
+          var bookmarks = JSON.parse(storedBookmarks);
+          displayBookmarks(bookmarks, bookmarkList);
+        } else {
+          bookmarkList.innerHTML = "<p>Tidak ada bookmark yang disimpan.</p>";
+        }
+
+        // Fungsi untuk menampilkan bookmark
+        function displayBookmarks(bookmarkTreeNodes, parent) {
+          var ul = document.createElement("ul");
+          parent.appendChild(ul);
+          bookmarkTreeNodes.forEach(function (node) {
+            var li = document.createElement("li");
+            li.textContent = node.title;
+            ul.appendChild(li);
+            if (node.children) {
+              displayBookmarks(node.children, li);
+            }
+          });
+        }
+
+        // Fungsi untuk menyimpan bookmark di local storage
+        function saveBookmarks() {
+          chrome.bookmarks.getTree(function (bookmarkTreeNodes) {
+            var bookmarks = bookmarkTreeNodes[0].children; // Ambil root node bookmark
+            localStorage.setItem("bookmarks", JSON.stringify(bookmarks));
+          });
+        }
+
+        // Simpan bookmark saat halaman dimuat
+        saveBookmarks();
+      });
+    </script>
+  </body>
+</html>

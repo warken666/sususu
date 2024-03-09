@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Scroll Effect</title>
+  </head>
+  <body>
+    <img
+      id="playButton"
+      src="char/char1.png"
+      alt="Play Button"
+      onclick="playRandomAudio()"
+      style="cursor: pointer"
+    />
+    <div class="characterButton">
+      <input
+        id="volumeControl"
+        type="range"
+        min="0"
+        max="1"
+        step="0.1"
+        value="0.3"
+        class="slider"
+        oninput="updateVolume()"
+      />
+      <div class="header">
+        <div class="search-container" id="search-container">
+          <form
+            action="https://www.google.com/search"
+            method="GET"
+            target="_blank"
+            class="search-box"
+            id="search-box"
+          >
+            <input type="text" name="q" placeholder="Search" required />
+          </form>
+        </div>
+      </div>
+
+      <!-- Audio -->
+      <audio id="myAudio" class="hiddenElements" controls>
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <div class="charname">
+      <div class="small">ho'olheyak</div>
+      <div class="big">HO'OLHEYAK</div>
+    </div>
+    <div class="page" id="page1">
+      <h1>Page 1</h1>
+    </div>
+    <div class="page" id="page2">
+      <h1>Page 2</h1>
+    </div>
+    <div class="page" id="page3">
+      <h1>Page 3</h1>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

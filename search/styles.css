@@ -1,0 +1,80 @@
+:root {
+  --cyan: #007ae5;
+  --tiles: 5;
+}
+
+body {
+  background-color: #eee;
+}
+
+.wrapper {
+  height: 100vh;
+  text-align: center;
+}
+
+.wrapper button {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.loader {
+  --parent: "";
+  position: fixed;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100vh;
+  transition: width 0s 1.4s ease;
+}
+
+.loader__icon {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+
+.loader__icon svg {
+  transform-origin: 0 0;
+}
+
+.loader__tile {
+  position: absolute;
+  left: 0;
+  width: 0;
+  height: 20%;
+  background-color: var(--cyan);
+  transition: width 0.7s ease;
+}
+
+@for $i from 0 to var(--tiles) {
+  .loader__tile:nth-child(#{$i}) {
+    top: calc(#{$i - 1} * 20%);
+    transition-delay: #{($i - 1) * 0.2s};
+  }
+}
+
+.loader--active {
+  width: 100%;
+  transition-delay: 0s;
+}
+
+.loader--active .loader__icon {
+  opacity: 1;
+  transition: opacity 0.5s 1.4s ease;
+}
+
+.loader--active .loader__tile {
+  width: 100%;
+}
+
+@for $i from 0 to var(--tiles) {
+  .loader--active .loader__tile:nth-child(#{$i}) {
+    transition-delay: #{($i - 1) * 0.2s};
+  }
+}

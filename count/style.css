@@ -1,0 +1,139 @@
+body {
+  font-family: Arial, sans-serif;
+  /* margin: 20px; */
+  text-align: center;
+}
+.mainContent {
+  display: flex;
+}
+.calenderObject {
+  font-size: 0.9em;
+  font-family: sans-serif;
+  border-radius: 10pt;
+  overflow: hidden;
+  width: 200pt;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.597);
+}
+table {
+  cursor: default;
+  border-collapse: collapse;
+  margin: 0 auto;
+  /* min-width: 400px; */
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+  width: 100%;
+}
+th,
+td {
+  padding: 12px 15px;
+  /* border: 1px solid black; */
+  text-align: center;
+  /* border-bottom: 1px solid #dddddd; */
+  margin-bottom: 20pt;
+}
+#navigation-buttons,
+.calenderObject,
+.navButton,
+.counterEditorButton {
+  background-color: rgb(12, 22, 44);
+  /* padding: 10pt; */
+}
+.navButton {
+  width: 100%;
+  padding: 8pt;
+  color: rgb(255, 255, 255);
+  border: none;
+  cursor: pointer;
+}
+.navButton:hover {
+  background-color: #4c289e;
+}
+.date {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  width: 20%;
+  font-size: larger;
+  /* background-color: #00a785; */
+  color: #ffffff;
+  /* text-align: left; */
+  transition: padding 0.2s ease, background-color 0.5s ease;
+}
+.highlight {
+  font-weight: bold;
+  background-color: #9055ff;
+  color: white;
+}
+.day {
+  transition: padding 0.2s ease, background-color 0.5s ease;
+  color: #ffffff;
+  font-weight: 700;
+  letter-spacing: 2pt;
+}
+.day.highlight {
+  cursor: pointer;
+}
+.day:hover,
+.hoverRelative {
+  background-color: #4c289e;
+  /* padding-top: 30px;
+  padding-bottom: 30px; */
+}
+.day.highlight:hover,
+.highlight.hoverRelative {
+  background-color: #b21f35;
+  /* padding-top: 30px;
+  padding-bottom: 30px; */
+}
+.fullDate {
+  display: none;
+}
+.counterElement {
+  color: rgba(255, 255, 255, 0.561);
+  padding-top: 5pt;
+  transition: font-size 0.2s ease, translate 0.2s ease;
+}
+.day.readyInput {
+  cursor: default;
+}
+.readyInput .counterElement {
+  /* translate: -3pt; */
+  cursor: default;
+  padding-top: 0pt;
+  font-size: 50pt;
+}
+#counterEditor {
+  z-index: 10;
+  margin-left: 5pt;
+  transition: opacity 0.2s ease, z-index 0.3s ease;
+}
+#counterEditor.hidden {
+  z-index: -10;
+  opacity: 0;
+  /* translate: -90pt; */
+}
+.counterEditorOutput {
+  font-size: small;
+  cursor: pointer;
+  border: 1pt solid rgb(12, 22, 44);
+  color: rgb(0, 0, 0);
+  padding: 23pt 20pt;
+  margin-bottom: 5pt;
+  border-radius: 6pt;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.27);
+}
+.counterEditorButton {
+  font-size: small;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  padding: 5pt 20pt;
+  margin-bottom: 5pt;
+  border-radius: 6pt;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.27);
+}
+.counterEditorButton:hover {
+  background-color: rgb(21, 46, 97);
+}
+#output-box {
+  background-color: rgba(255, 255, 255, 0.4);
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+  cursor: default;
+}

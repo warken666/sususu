@@ -1,0 +1,445 @@
+@font-face {
+  font-family: "Psilo";
+  src: url("fonts/Psilograph-Medium.otf") format("opentype");
+  /* Jika Anda memiliki format font lainnya, sesuaikan format di atas */
+}
+
+@font-face {
+  font-family: "Avenue";
+  src: url("fonts/Modern Avenue Demo.otf") format("opentype");
+  /* Jika Anda memiliki format font lainnya, sesuaikan format di atas */
+}
+
+#counterKalender {
+  z-index: 100000;
+  opacity: 1;
+  position: fixed;
+  transition: opacity 0.2s ease, z-index 0.2s ease;
+}
+
+#counterKalender.hidden {
+  z-index: -100000;
+  opacity: 0;
+}
+
+#counterButton {
+  z-index: 100001;
+  cursor: pointer;
+  position: fixed;
+  border-radius: 5pt;
+  width: 15pt;
+  height: 15pt;
+  border: 1pt solid rgb(38, 36, 132);
+  background-color: rgba(38, 36, 132, 0);
+  margin: 12pt;
+  transition: background-color 0.15s ease;
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.663); */
+}
+
+#counterButton:hover {
+  background-color: rgb(69, 67, 162);
+}
+
+#counterButton.toggleON {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.368);
+}
+#counterButton.toggleON:hover {
+  background-color: white;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.576);
+}
+
+.navbar {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+  width: 100%;
+  height: 100%;
+  background-image: url("bg/skadi.jpg"); /* Ganti dengan URL gambar Anda */
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("bg/skadi.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+
+.page {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  color: white;
+}
+
+#page1 {
+  background-color: #87cfeb00;
+}
+
+#page2 {
+  background-color: #98fb9800;
+}
+
+#page3 {
+  background-color: #ffd90000;
+}
+
+/* BATAS SUCI */
+
+.background {
+  position: absolute;
+  z-index: -99;
+  width: 100%;
+  height: 100%;
+  background-color: #000000c8;
+  background-image: url("bg/skadi.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.background-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.535);
+}
+
+.header {
+  z-index: 999999;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgb(52, 159, 97);
+  background: linear-gradient(
+    22deg,
+    rgba(52, 159, 97, 1) 0%,
+    rgba(61, 107, 189, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 30px;
+  padding: 10px 0;
+  text-align: center;
+  color: #fff;
+  /* box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); */
+  transition: height 0.1s ease, padding 0.3s ease;
+}
+
+.header:hover {
+  height: 30px;
+  padding: 10px 0;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.search-container {
+  justify-self: center;
+  position: relative;
+  width: 300px;
+  height: 30px;
+  overflow: hidden;
+  border-radius: 2px; /* Menggunakan sudut yang tumpul dengan nilai border-radius */
+  transition: width 0.3s ease;
+  /* box-shadow: 0px 1px 5px #3e139b9f; */
+}
+
+.search-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center; /* Tambahkan properti ini */
+  justify-content: center;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+input {
+  background-color: #ff000000;
+  width: 100%;
+  color: #000000;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding: 0 10px;
+  box-sizing: border-box;
+  /* transition: width 0.3s ease; */
+  transition: opacity 0.3s ease;
+}
+
+.bookmarks {
+  /* background-color: red; */
+  /* height: 95%; */
+  width: 80%;
+  margin-right: 20%;
+  /* margin-bottom: 5%; */
+  display: flex;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
+  justify-content: left;
+  padding: 20px;
+}
+
+.card {
+  background-color: #04aa6d;
+  margin: 10px;
+  width: 350px;
+  height: 190px;
+  border-radius: 12px;
+  overflow: hidden;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 300ms;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.card:hover p {
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  transform: translate(4px, 12px);
+}
+
+.card:hover img {
+  transform: scale(1.02);
+  filter: blur(1px);
+}
+
+.card a {
+  text-decoration: none;
+  color: #333;
+  display: block;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.6s ease;
+}
+
+.card .content {
+  box-sizing: border-box;
+  width: 100%;
+  position: absolute;
+  padding: 30px 20px 0px 20px;
+  height: auto;
+  bottom: 0;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.6));
+}
+
+.card p {
+  font-size: 17px;
+  color: #fff;
+  transition: all 0.4s ease;
+}
+.scheduleTable {
+  /* background-color: #000000; */
+  /* z-index: 1; */
+  display: flex;
+  justify-content: center;
+}
+
+.scheduleTable table {
+  /* z-index: 1; */
+  font-size: 20px;
+  border-collapse: separate;
+  border-spacing: 3px 3px;
+}
+
+/* .scheduleTable tr {
+  background-color: red;
+} */
+
+.scheduleTable th {
+  background-color: #000000b6;
+  letter-spacing: 2px;
+  border-radius: 5px 5px 0 0;
+  /* border: 3px solid rgb(16, 123, 133); */
+}
+
+.scheduleTable th,
+td {
+  /* width: 70px; */
+  padding: 10px 20px;
+  /* background-color: rgba(255, 255, 255, 0.2); */
+  color: #fff;
+}
+
+.scheduleTable tbody {
+  background-color: #ffffff;
+}
+
+.scheduleTable td {
+  background-color: #00000023;
+  text-align: center;
+  padding: 20px;
+}
+
+.scheduleTable .container {
+  /* background-color: rgb(0, 0, 0); */
+  padding: 0;
+}
+
+.scheduleTable a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 0 40px;
+  transition: all 0.2s ease;
+}
+
+.scheduleTable a:hover {
+  text-shadow: 0 0 20px rgb(255, 255, 255);
+}
+
+.characterButton {
+  /* background-color: #ff0000; */
+  /* background-color: #333; */
+  z-index: 10;
+  /* overflow: hidden; */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  gap: 40%;
+}
+
+.hiddenElements {
+  display: none;
+}
+
+#playButton {
+  /* background: red; */
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 9999999;
+  width: 30%;
+  transform: translate(90px, 100px);
+  filter: drop-shadow(0 0 10px rgba(8, 175, 169, 0));
+  transition: filter 0.001s ease-in-out, width 0.2s ease-out;
+}
+
+#playButton:hover {
+  width: 30.2%;
+}
+
+.audioConfig {
+  width: 30%;
+}
+
+.slider {
+  overflow: visible;
+  z-index: 9999999;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin: 23px 15px;
+  -webkit-appearance: none;
+  width: 150px;
+  height: 2px;
+  background: #ffffff;
+  outline: none;
+  opacity: 1;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+}
+
+/* .slider:hover {
+  filter: drop-shadow(0 0 10px rgba(8, 175, 169, 0));
+} */
+
+.slider::-webkit-slider-thumb {
+  opacity: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 10px;
+  background: rgb(255, 255, 255);
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #04aa6d;
+  cursor: pointer;
+}
+
+.charname {
+  position: fixed;
+  padding: 0px 20px;
+  letter-spacing: 1px;
+  display: flex;
+  /* width: 50px; */
+  /* height: 50px; */
+  top: 0;
+  right: 100px;
+  justify-content: center;
+  background-color: #000000;
+}
+.charname .small {
+  order: 1;
+  margin-top: 60px;
+  position: absolute;
+  z-index: 10;
+  font-family: "Avenue";
+  color: white;
+  font-size: 30px;
+}
+.charname .big {
+  order: 2;
+  position: absolute;
+  /* background-color: #04aa6d; */
+  /* height: 100%;
+  width: 100%; */
+  /* left: ; */
+  opacity: 0.4;
+  z-index: 9;
+  color: #04aa9c;
+  font-family: "Psilo";
+  font-size: 120px;
+}

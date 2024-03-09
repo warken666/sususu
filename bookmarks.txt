@@ -1,0 +1,4 @@
+YouTube|https://youtube.com/|images/youtube.png
+OpenAI|https://chat.openai.com/|images/openai.png
+MyAnimeList|https://myanimelist.net/anime/season/schedule|images/myanimelist.png
+Seedr|https://www.seedr.cc/files|images/seedr.png

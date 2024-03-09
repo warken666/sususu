@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="icon" href="favicon.png" type="image/png" />
+    <link rel="shortcut icon" href="favicon.png" type="image/png" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="background">
+      <div class="background-overlay"></div>
+    </div>
+
+    <div class="bookmarks" id="bookmark-container">
+      <!-- Bookmarks will be dynamically added here -->
+    </div>
+
+    <div class="scheduleTable">
+      <div class="container">
+        <table id="dataTable">
+          <thead>
+            <tr>
+              <th>HARI</th>
+              <th>JUDUL</th>
+              <th>JAM</th>
+              <!-- Add more headers if needed -->
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Table data will be inserted here -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <img
+      id="playButton"
+      src="char/char1.png"
+      alt="Play Button"
+      onclick="playRandomAudio()"
+      style="cursor: pointer"
+    />
+    <div class="characterButton">
+      <input
+        id="volumeControl"
+        type="range"
+        min="0"
+        max="1"
+        step="0.1"
+        value="0.3"
+        class="slider"
+        oninput="updateVolume()"
+      />
+      <div class="header">
+        <div class="search-container" id="search-container">
+          <form
+            action="https://www.google.com/search"
+            method="GET"
+            target="_blank"
+            class="search-box"
+            id="search-box"
+          >
+            <input type="text" name="q" placeholder="Search" required />
+          </form>
+        </div>
+      </div>
+
+      <!-- Audio -->
+      <audio id="myAudio" class="hiddenElements" controls>
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <div class="charname">
+      <div class="small">ho'olheyak</div>
+      <div class="big">HO'OLHEYAK</div>
+    </div>
+    <script>
+      var audio = document.getElementById("myAudio");
+      const blinkingImage = document.getElementById("playButton");
+      const volumeControl = document.getElementById("volumeControl");
+      let currentAudio = null;
+
+      // Menambahkan autoplay dengan file greet.mp3
+      document.addEventListener("DOMContentLoaded", function () {
+        const greetingAudio = new Audio("audio/greet.mp3");
+        greetingAudio.volume = volumeControl.value;
+        greetingAudio.play();
+
+        // Set currentAudio to greetingAudio so that it's skipped in updateGlow
+        currentAudio = greetingAudio;
+      });
+
+      function stopCurrentAudio() {
+        if (currentAudio) {
+          currentAudio.pause();
+          currentAudio.currentTime = 0;
+        }
+      }
+
+      function playRandomAudio() {
+        // Hentikan audio sebelumnya
+        stopCurrentAudio();
+
+        // Daftar nama file audio dalam folder char1
+        var audioFiles = [
+          "chat1.mp3",
+          "chat2.mp3",
+          "chat3.mp3",
+          // tambahkan file audio lainnya sesuai kebutuhan
+        ];
+
+        // Mendapatkan elemen audio
+        const audio = new Audio();
+
+        // Menghasilkan indeks acak untuk memilih audio
+        var randomIndex = Math.floor(Math.random() * audioFiles.length);
+
+        // Mengatur sumber audio sesuai dengan file yang dipilih secara acak
+        audio.src = "audio/char1/" + audioFiles[randomIndex];
+        audio.type = "audio/mp3";
+        audio.volume = volumeControl.value;
+
+        // Memulai pemutaran audio
+        audio.play();
+
+        // Simpan audio saat ini untuk dapat dihentikan nanti
+        currentAudio = audio;
+
+        // Mendeteksi intensitas suara
+        const audioContext = new (window.AudioContext ||
+          window.webkitAudioContext)();
+        const analyser = audioContext.createAnalyser();
+        const source = audioContext.createMediaElementSource(audio);
+
+        source.connect(analyser);
+        analyser.connect(audioContext.destination);
+
+        analyser.fftSize = 256;
+        const bufferLength = analyser.frequencyBinCount;
+        const dataArray = new Uint8Array(bufferLength);
+
+        const updateGlow = () => {
+          analyser.getByteFrequencyData(dataArray);
+
+          // Skip updating glow effect if the current audio is the greeting audio
+          if (currentAudio && currentAudio.src.includes("greet.mp3")) {
+            requestAnimationFrame(updateGlow);
+            return;
+          }
+
+          // Menghitung rata-rata intensitas suara
+          const average =
+            dataArray.reduce((acc, val) => acc + val, 0) / dataArray.length;
+
+          // Mengubah efek glow berdasarkan intensitas suara
+          const glowIntensity = (average / 100).toFixed(2);
+          blinkingImage.style.filter = `drop-shadow(0 0 10px rgba(8, 175, 169, ${glowIntensity}))`;
+
+          // Mengatur pemanggilan fungsi ini untuk frame berikutnya
+          requestAnimationFrame(updateGlow);
+        };
+
+        updateGlow();
+      }
+
+      function updateVolume() {
+        if (currentAudio) {
+          currentAudio.volume = volumeControl.value;
+        }
+      }
+    </script>
+    <script src="script.js"></script>
+  </body>
+</html>
