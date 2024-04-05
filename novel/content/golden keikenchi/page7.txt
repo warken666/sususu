@@ -1,0 +1,52 @@
+Golden Experience – 7
+Bab 7: “Subordinate”
+
+Setelah semua pemikiran itu, Rare telah menemukan tiga kemungkinan besar:
+
+Pertama, [Mental Magic]’s [Control] memiliki potensi. Kedua, mungkin ada sesuatu yang tersembunyi di pohon keterampilan [Discipline] dan [Summon]. Ketiga, mungkin ada semacam hubungan antara [Necromancy], [Discipline], dan [Summon]. Dia tidak memiliki dasar untuk semua ini, dan rencananya mulai tampak semakin putus asa, tetapi setidaknya dia telah menemukan sesuatu. Berdasarkan perhitungannya, dia memiliki cukup XP untuk mulai menguji hal-hal.
+
+Namun, begitu dia memasukkan XP-nya ke dalam satu penyelidikan, Rare tidak akan bisa mendapatkan lebih banyak XP di sini. Untuk mendapatkan kembali XP yang dia gunakan, dia harus pergi ke tempat lain untuk mengalahkan musuh yang lebih kuat. Tetapi jika dia hanya mengambil keterampilan yang aneh, peluangnya untuk bisa mengalahkan musuh dengan tingkat kesulitan yang sesuai akan, jujur saja, rendah. Tidak peduli seberapa siap dia, itu tidak akan cukup untuk mengurangi semua risiko. Menyisihkan pohon yang paling mahal, [Mental Magic], dia akan mencoba [Discipline], [Summon], dan [Necromancy] terlebih dahulu. Butuh 60 XP untuk membuka ketiga keterampilan tersebut. Setelah itu, dia memeriksa ulang setiap pohon keterampilan mereka, tetapi daftar keterampilan yang dapat dibuka tidak berubah sama sekali.
+
+—Yah, itu tidak persis di luar harapan. Tidak perlu panik dulu.
+
+Jika prasyarat bisa dipenuhi hanya dengan keterampilan ini, maka seseorang seharusnya sudah mengetahuinya sekarang. Yang berarti yang berikutnya untuk dicoba adalah [Mental Magic]. Untuk membuka hingga [Control], pertama [Stupefy] membutuhkan 10 XP, kemudian [Charm] dan [Fear] masing-masing 40 XP, dan akhirnya [Control] itu sendiri membutuhkan 60 XP, jadi dia membutuhkan total 150 XP.
+
+Memikirkannya lagi, jika rencana ini gagal total, untuk mendapatkan lebih banyak XP dengan semua keterampilan sampahnya, dia setidaknya akan memiliki spesifikasi [Mental Magic] yang layak untuk digunakan. [Mental Magic] menginginkan MND, jadi jika dia membuang semua XP yang tersisa ke dalamnya, maka dia setidaknya bisa bertarung dengan kompeten. Meningkatkan MND juga akan meningkatkan kolam MP-nya untuk menggunakan semua keterampilan ini, jadi itu adalah lapisan perak yang nyaman.
+
+Dengan itu diputuskan, tidak ada lagi alasan untuk ragu-ragu. Rare menggunakan 150 XP untuk mengambil semua keterampilan [Mental Magic] hingga dan termasuk [Control]. Jika hipotesisnya benar, dia seharusnya telah membuka keterampilan tambahan.
+
+—Baiklah, saya akan mulai memeriksa dari [Discipline]…
+
+Pohon keterampilan [Discipline] tidak memiliki keterampilan baru.
+
+Pohon keterampilan [Summon] juga tidak memiliki apa-apa yang baru.
+
+Pohon keterampilan [Necromancy]—memiliki keterampilan baru: [Bind Soul].
+
+—Yesss! Dapat! Saya benar!
+
+Bersemangat, dia tidak ragu-ragu untuk menghabiskan XP. Keterampilan barunya [Bind Soul] berbunyi: [Mencuri jiwa mayat yang mati dalam satu jam terakhir. Saat menggunakan [Necromancy] pada mayat yang masih memiliki jiwa, target [Necromancy] tidak dapat menolak. Jika Anda memiliki stok jiwa, Anda dapat menghabiskannya untuk membuat [Mental Magic: Control] dapat digunakan pada target [Undead], [Homunculus], dan [Golem].]
+
+—Ini luar biasa! …Saya pikir, mungkin? Hmm…
+
+Sekilas, bagian [Mencuri jiwa mayat] terasa terlalu samar: efek dan penggunaannya tidak intuitif. Ini pada dasarnya terasa seperti teks rasa. Namun, untuk mempelajari keterampilan ini, Anda harus memiliki setidaknya [Necromancy] dan [Control], dan masing-masing keterampilan tersebut memiliki kelemahan yang signifikan dalam bentuk “tingkat keberhasilan rendah” dan “hanya bisa digunakan pada target yang hidup.” Keterampilan baru ini meredakan batas-batas itu, memberinya nilai segera. “Stok jiwa” harus merujuk pada jiwa yang dicuri menggunakan [Bind Soul].
+
+Namun, keterampilan itu membutuhkan 60 XP, dan mengesampingkan biaya semua prasyarat untuk sementara waktu, itu memiliki biaya yang sama dengan [Control]. Saat mengarah khusus ke keterampilan ini, semua hingga dan termasuk [Control] dan [Necromancy] membutuhkan 170 XP, membuatnya tidak mungkin dicapai hanya dengan XP awal dari pembuatan karakter. Mudah untuk menggulir ulang selama beta tertutup, tetapi karakteristik bawaan tidak ada saat itu, jadi sekarang seharusnya tidak banyak pemain yang telah menemukan keterampilan ini. Bahkan jika mereka tahu tentang itu, tidak banyak yang akan segera mengambilnya dan membangun di sekitarnya. Jadi kemungkinan besar tidak banyak yang tahu tentang keberadaan [Bind Soul].
+
+Selain itu, [Bind Soul] hanya bekerja pada mayat yang mati dalam satu jam terakhir. Mengingat ini bersama dengan teks halus [Necromancy], Anda bisa mengekstrapolasi bahwa jiwa di dunia ini hanya tetap melekat pada mayat mereka selama satu jam. Menyebalkan, tidak ada yang memverifikasi kondisi [Necromancy] “jika jiwa masih melekat pada mayat” dalam beta tertutup; semua orang menganggap itu hanya lore atau karena mayat terdegradasi terlalu banyak setelah satu jam atau sesuatu.
+
+Bagaimanapun, dia sekarang memiliki keterampilan yang secara pasif meningkatkan [Control] dan [Necromancy]. Dia telah menghabiskan dua pertiga dari XP yang dia peroleh, jadi dia berharap dia bisa mengatasi dengan apa yang telah dia dapatkan. Dia masih khawatir bahwa dia tidak berpeluang melawan bos lapangan atau dungeon, meskipun, karena mereka memiliki resistensi yang tidak alami tinggi.
+
+—Yah, build ini tidak seperti, pisau daging super-spesialisasi yang benar-benar hanya bisa digunakan untuk memotong daging. Saya masih memiliki opsi lain.
+
+Rare sedikit santai. Dia telah menghindari hasil terburuk di mana tidak ada jalan maju yang mungkin, jadi sekarang dia merasa cukup acuh tak acuh tentang semuanya. Dia memutuskan untuk memeriksa ulang [Discipline]. Tidak. Tidak ada yang berubah sama sekali; pohon keterampilan masih hanya berisi [Discipline] dan tidak ada yang lain, yang membuatnya menjadi pohon yang cukup membosankan. Dengan pikiran-pikiran santai ini mengambang di pikirannya, dia membuka pohon keterampilan [Summon].
+
+Dia telah membuka keterampilan baru, [Contract].
+
+Dia setengah mengulurkan tangan untuk membelinya hanya berdasarkan dorongan.
+
+Deskripsinya adalah [Membuat kontrak dengan jiwa target yang berhasil dipanggil. Anda sekarang dapat memilih untuk memanggil target yang dikontrak saat menggunakan [Summon]. Undead yang dibuat dengan [Necromancy: Bind Soul] dapat ditambahkan ke daftar kontrak.] Sama seperti dengan [Bind Soul] dan [Necromancy], itu adalah peningkatan murni untuk keterampilan dasar [Summon]. Selain itu, itu meningkatkan [Bind Soul], salah satu prasyaratnya. Ini sangat kuat. Butuh setidaknya 310 XP untuk mendapatkan semua keterampilan ini. Saat ini, bisa dibilang tiga pilar tempur Rare adalah [Mental Magic], [Necromancy], dan [Summon]. Itu adalah perjalanan yang mahal, tetapi sangat layak.
+
+Semua pemikiran sebelumnya telah terbukti benar. Rare sekarang tidak ragu bahwa keterampilan baru akan muncul di pohon [Discipline].
+
+Dan seperti yang dia harapkan, pohon keterampilan [Discipline] memang sekarang memiliki keterampilan baru. Dia akhirnya telah membuka [Subordinate].
