@@ -1,0 +1,49 @@
+Golden Experience – 30
+Bab 30: "Pesan Sistem 1"
+Untuk semua pemain:
+
+Terima kasih telah bermain [Boot Hour, Shoot Curse].
+
+Pemeliharaan server sebelum peluncuran resmi dimulai hari ini pukul 12:00 AM, dan sekarang telah selesai pada pukul 11:00 PM. Dengan penyelesaian pemeliharaan, versi game telah diperbarui menjadi 1.01.
+
+Layanan resmi akan dimulai besok pukul 10:00 AM.
+
+Dengan peluncuran resmi, langganan sekarang akan diperlukan untuk mengakses server. Setelah masuk untuk pertama kalinya setelah pemeliharaan, harap ketahui bahwa Anda perlu menyetujui [Perjanjian Lisensi Pengguna], [Perjanjian Lisensi Layanan], dan [Kebijakan Privasi] yang telah diperbarui.
+
+Berikut adalah perubahan gameplay yang akan disertakan dengan dimulainya layanan resmi:
+
+Menyesuaikan lokasi spawn awal
+Beberapa lokasi spawn untuk beberapa ras dianggap terlalu sulit. Lokasi spawn acak yang tersedia telah disesuaikan sehingga pemain baru disajikan tingkat kesulitan yang sesuai. Lokasi spawn awal ditemukan terlalu bias berdasarkan populasi kota terdekat.
+
+Penjelasan yang tidak cukup untuk sistem game
+Telah menjadi perhatian kami bahwa beberapa sistem game tidak menerima penjelasan yang cukup. Telah ada pertanyaan mengenai penggunaan negara dari keterampilan [Subordinate]; beberapa Karakter Non-Pemain, seperti bangsawan, memiliki akses ke [Subordinate]. Membiarkan diri Anda dipengaruhi oleh keterampilan ini dalam sistem memungkinkan Anda untuk bergabung dengan kelompok seperti [Knight Orders]. Berdasarkan sifat pengaruh ini, dimungkinkan untuk membuka keterampilan baru dan/atau [Reincarnate].
+
+※CONTOH: Karakter manusia ditundukkan oleh karakter vampir. → Manusia sekarang dapat bereinkarnasi menjadi Squire Zombie.
+
+[Reincarnate]
+Dengan memenuhi kondisi tertentu, karakter dalam game dapat memicu peristiwa tertentu yang memungkinkan ras mereka saat ini diubah. [Reincarnate] juga dapat memerlukan poin pengalaman.
+
+Karakter di bawah pengaruh [Subordinate]
+Karakter yang dipengaruhi oleh [Subordinate] tidak lagi memiliki timer respawn setelah mati. Setelah kelayakan kebangkitan telah kedaluwarsa, mereka akan secara otomatis respawn. Selain itu, karakter [Subordinated] tidak dapat mendapatkan poin pengalaman mereka sendiri. Semua poin pengalaman yang diperoleh oleh karakter [Subordinated] dikendalikan oleh karakter yang menundukkan; silakan bicara dengan karakter tersebut untuk meminta poin pengalaman dihabiskan pada karakter Anda.
+
+Menghapus status [Subordinated]
+Di halaman Dukungan Pelanggan, navigasikan ke formulir [Comments / Requests], pilih kategori [In-Game Requests] dan subkategori [Remove Subordinate Status], dan sertakan detail tentang permintaan penghapusan dalam deskripsi.
+
+Kami berharap Anda terus menikmati waktu Anda di [Boot Hour, Shoot Curse]!
+
+Untuk semua pemain:
+
+Terima kasih telah bermain [Boot Hour, Shoot Curse].
+
+Untuk merayakan peluncuran resmi game, acara seluruh server sedang dalam pengembangan. Acara ini akan dimulai dua minggu setelah peluncuran resmi pukul 8:00 PM dan berlangsung selama 2 jam.
+
+Untuk acara ini, waktu dalam game akan dipercepat sementara; pemain akan mengalami 48 jam selama rentang waktu 2 jam dari acara.
+
+※Pemain tidak dapat bergabung dengan acara setengah jalan.
+※Pemain yang pensiun dari acara lebih awal tidak akan dapat bergabung kembali.
+※Pemain yang ingin berpartisipasi dalam acara akan diminta untuk menandatangani perjanjian lisensi baru.
+※Pemain di bawah umur yang ingin berpartisipasi dalam acara akan membutuhkan persetujuan dari wali hukum yang berusia.
+
+Informasi lebih lanjut tentang acara akan diumumkan di situs web resmi pada tanggal yang akan datang.
+
+Kami berharap Anda terus menikmati waktu Anda di [Boot Hour, Shoot Curse]!
