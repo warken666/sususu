@@ -1,0 +1,76 @@
+Golden Experience - 26
+Bab 26: "Kegelapan yang Mengintai di Hati Orang-Orang"
+
+Mari kita uji coba dengan Sugaru sebagai subjek pertama.
+
+"Sugaru, saya akan menambahkanmu sebagai teman."
+
+Saat ini, tidak ada alasan untuk tidak mengatakannya secara langsung. Sugaru menatapnya dengan tatapan kosong. Ini bukanlah respons yang dia harapkan.
+
+Rare bertanya-tanya apa yang harus dia lakukan untuk menambahkan teman. Biasanya, cukup dengan bertanya "Apakah kamu ingin menjadi teman?" akan berhasil. Namun, yang penting di sini adalah bagaimana permainan mendefinisikan "teman".
+
+Bagaimana seseorang bisa menjadi teman dengan orang lain?
+
+Kegelapan yang menyeramkan yang menghantui masyarakat modern muncul dari dalam dirinya, dan metode umum yang diterima untuk berteman dalam kehidupan nyata membuat tubuhnya terhenti sejenak.
+
+Jika sistem beroperasi dengan cara yang hampir sama, maka tindakan serupa harus menghasilkan hasil yang serupa. Pertama adalah mencoba apa yang akan dilakukan dua pemain ketika mereka ingin berteman satu sama lain.
+
+Sayangnya, Rare tidak pernah ingin berteman dengan siapa pun selama beta tertutup. Semua data akun akan dihapus di akhir tes, lagipula, dan dia hanya terlalu senang menjelajahi semua sistem permainan, yang bukanlah apa yang kebanyakan pemain ingin lakukan. Di beta terbuka ini juga, dia tidak memiliki pemain yang ingin dia tambahkan sebagai teman.
+
+Rare harus mengandalkan dokumentasi Bantuan lagi.
+
+"'Cara berteman dengan pemain'... seharusnya berhasil. Dan cari."
+
+Mengelola daftar teman Anda:
+
+Untuk menambahkan seseorang ke daftar teman Anda, Anda membutuhkan kartu teman. Kartu teman dibuat setiap kali Anda mengambilnya dari inventaris Anda. Anda akan selalu memiliki akses ke kartu teman Anda sendiri; apa yang Anda keluarkan dari inventaris Anda selalu merupakan salinan. Berikan kartu teman Anda kepada pemain lain dan minta mereka menyimpannya di inventaris mereka untuk menjadi teman. Jika Anda ingin menghapus teman, ambil kartu teman mereka dan hancurkan atau buanglah. Teman yang dihapus dapat ditambahkan lagi dengan mengulangi langkah yang sama lagi.
+
+"Oh, saya mengerti..."
+
+Ini adalah sistem yang sederhana, pada dasarnya seperti bertukar kartu nama. Rare memeriksa inventarisnya sendiri dan menemukan bagian "Kartu Teman". Anda bisa melihat semua isi inventaris Anda melalui menu, tetapi untuk mengeluarkan sesuatu tanpa menggunakan sistem, Anda harus fokus pada item tertentu. NPC tidak akan bisa memahami konsep kartu teman, jadi hanya pemain yang bisa memulai pertemanan.
+
+Rare memberikan kartu teman yang dia ambil kepada Sugaru dan menyuruhnya menyimpannya di inventarisnya.
+
+<<Anda telah menjadi teman dengan [Sugaru].>>
+
+Dan begitu saja, mereka menjadi teman.
+
+"Sekarang, bagaimana cara saya mengakses obrolan teman lagi... atau sebenarnya, saya belum pernah melakukannya sebelumnya. Ah, ini dia."
+
+<Sugaru, bisakah kamu mendengarku?>
+
+Sugaru terkejut.
+
+<Kamu juga harus bisa berkomunikasi dengan saya dengan cara yang sama; bisakah kamu mencobanya? Pikirkan nama saya di kepalamu, lalu rasakan pikiranmu diarahkan kepadaku.>
+
+<......Bos bos bos bos... Ah, apakah itu berhasil? Apakah kita terhubung?>
+
+<Ohh, kamu berhasil! Sekarang, tidak peduli seberapa jauh kita berada, kita masih bisa berbicara. Kita tidak perlu berbicara keras-keras, jadi ini sempurna untuk membahas topik secara rahasia.>
+
+Para gadis catkin masih berbicara dengannya dengan cukup santai, tetapi Sugaru sedikit lebih formal. Atau lebih tepatnya, Sugaru sebenarnya tidak menggunakan bahasa formal, tetapi pikirannya diterjemahkan ke dalam bentuk pidato ini kepada Rare. Obrolan teman dicatat dan disimpan sementara, jadi mungkin itulah mengapa secara otomatis diterjemahkan ke dalam pidato manusia.
+
+Sekarang dia tahu obrolan teman bisa digunakan, jumlah tangan yang bisa dia mainkan akan meningkat pesat.
+
+Dan sekarang, setelah menyelidiki pengikut yang dia peroleh sejauh ini, Rare menemukan dirinya sampai pada satu kesimpulan yang mengejutkan:
+
+Jika NPC bisa menggunakan sistem dengan cara yang sama seperti pemain, dan jika sistem tidak membedakan antara pemain dan NPC sejauh gameplay berjalan, maka tidak ada yang mencegah pemain untuk dijinakkan.
+
+Jika ini benar-benar benar, maka dia bisa menyedot semua XP yang telah dikumpulkan pemain lain untuk dirinya sendiri. Agak seperti bagaimana beberapa karakter wanita mendapatkan pemujaan dari pemain pria, dibawa melalui konten, dan diberi barang gratis.[1] Karena avatar Anda bergerak berdasarkan tubuh Anda yang sebenarnya, dan Anda menggunakan suara Anda sendiri untuk berbicara, itu relatif sulit untuk memalsukan jenis kelamin Anda dalam permainan ini seperti dalam permainan VR lainnya, tetapi itu tidak mustahil. Oleh karena itu, "nekama"[2] yang disebut ada di luar sana. Dan jika pemikirannya benar, bahkan XP bisa didonasikan dalam permainan ini.
+
+Mungkin kegelapan ini yang telah ada sepanjang sejarah permainan online sedang mengkristal menjadi bentuk yang lebih sempurna di sini.
+
+Namun demikian, dalam hal apa yang bisa dilakukan dalam permainan, sangat sulit membayangkan sistem yang melanggar persetujuan pengguna. Jika seorang pemain benar-benar mendapatkan jinak, sistem mungkin akan melemparkan semacam peringatan atau pesan kesalahan sistem dan memungkinkan mereka untuk membatalkan efeknya. Itu akan menjadi perbedaan besar dibandingkan dengan NPC. Kalimat dari tutorial, "satu-satunya perbedaan antara PC dan NPC adalah apakah mereka bisa menerima pesan sistem," mungkin merujuk ke ini.
+
+Rare gatal untuk mencobanya. Namun, jika dia harus mengujinya pada titik waktu ini, keberadaan [Subordinate] pasti akan menjadi publik. Dalam hal ini, dia hanya bisa mengujinya pada pemain yang sangat dapat dipercaya. Selain itu, pemain tersebut harus menyetujui kemungkinan dijinakkan oleh Rare. Seperti yang diharapkan, Rare tidak memiliki teman semacam itu.
+
+Atau lebih tepatnya, dia benar-benar tidak mengenal siapa pun.
+
+Sekarang dia memikirkannya, dia belum pernah melihat pemain lain, tetapi dia bertanya-tanya berapa banyak yang mulai di wilayah monster. Dan jika pemain tersebut jauh lebih sedikit dibandingkan dengan total titik awal yang mungkin di wilayah monster, maka bisa jadi hampir tidak mungkin menemukan siapa pun untuk bekerja sama atau berteman. Ada kemungkinan besar bahwa seseorang di dunia permainan tidak pernah bertemu pemain lain. Apa yang akan Anda lakukan jika Anda ingin bermain dengan teman-teman Anda?
+
+Bagaimanapun, Rare tidak benar-benar ingin bermain dengan teman-teman, jadi dia tidak peduli. Jika ada konten yang dia kesulitan mengalahkan solo, dia bisa saja membawa Kerry dan gadis-gadis lainnya. Jika perlu, dia bisa menaikkan INT mereka lebih banyak lagi, maka mereka mungkin akan lebih baik daripada pemain acak yang buruk. Sistem yang luar biasa dia temukan. Dia hanya memiliki rasa terima kasih untuk pengembang yang menciptakannya.
+
+Setelah para gadis bangun, dia akan membuat mereka bekerja pada sopan santun mereka. Setelah mereka memiliki lebih banyak XP untuk digunakan, dia juga ingin menaikkan INT mereka dan bertujuan agar mereka menjadi "Empat Elit yang Sebenarnya Mampu," kualifikasi tertentu yang jarang muncul dalam cerita.
+
+Untuk saat ini, mereka akan menunggu semua semut pulih, menekan hutan sekitarnya, dan menyimpan XP. Setelah LP dan MP Sugaru pulih dan dia bisa menghasilkan lebih banyak semut, XP yang mereka simpan akan dihabiskan untuk memperoleh lebih banyak keterampilan Enhance Follower untuk Rare dan Sugaru.
+
+Tetapi pertama-tama, mari kita fokus pada penaklukan hutan secara keseluruhan.
