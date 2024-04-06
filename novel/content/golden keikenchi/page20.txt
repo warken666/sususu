@@ -1,0 +1,59 @@
+Sebelum saat ini, dia seharusnya bisa muncul kembali tanpa masalah. Namun, semut ada di mana-mana, jadi dia sebenarnya tidak benar-benar muncul kembali tanpa masalah.
+
+"Tapi masih, sekarang ini adalah area pribadi seseorang sehingga saya tidak bisa muncul kembali. Saya hanya melihat papan pesan selama sekitar dua puluh menit, dan dalam waktu itu, seseorang ... apakah mereka membeli sebidang tanah, termasuk gua itu? Atau seperti, bisakah Anda membeli tanah? Begitu saya lebih baik dalam permainan ini, saya benar-benar ingin membeli rumah untuk saya beristirahat."
+
+Tapi gua pertama itu seharusnya memiliki banyak semut di dalamnya. Bisakah Anda membeli tanah bahkan ketika masih ada monster di sana? Jika demikian, maka selama Anda memiliki cukup uang, Anda bisa mengalahkan semua monster itu tanpa bertarung. Jika Anda memiliki anggaran negara yang tersedia, maka Anda bisa membeli semua tanah untuk menghilangkan wilayah monster. Namun, negara-negara manusia dan wilayah monster terus berjuang untuk tanah.
+
+"Normalnya Anda akan berpikir bahwa jika seseorang sudah ada di sana, maka Anda tidak bisa menjadi pemilik area itu. Itu berarti bahwa dalam waktu berapa lama saya mati, seseorang mampu membunuh semua semut?"
+
+Apakah sesuatu seperti itu mungkin? Bahkan jika ada pemain yang telah memulai seketika game tersebut tersedia, game tersebut baru keluar selama setengah hari. Dia tidak berpikir ada orang yang bisa menjadi cukup kuat untuk menanam semut super kuat dalam waktu yang singkat.
+
+"Ahh, saya mengerti. Mungkin ada orang yang telah tinggal di dunia ini sepanjang waktu yang kuat. Saya hanya berasumsi itu adalah pemain, tetapi saya kira NPC juga bisa memiliki area pribadi. Atau seperti, jika NPC bisa melakukannya, maka monster juga harus bisa melakukannya; mungkin semut itu sendiri adalah orang yang memiliki tempat itu pertama kali."
+
+Jika mereka seperti semut biasa, maka tidak akan aneh jika ada semut ratu. Semut bisa sedang dalam proses mengambil alih gua atas perintah ratu. Blanc bisa menjadi penyusup yang tiba-tiba muncul dari mana saja. Kemudian, ketika dia mati, pasukan pemusnahan mereka bisa menghilangkan semua musuh yang tersisa, mengubah gua menjadi wilayah semut dan dengan demikian membuat Blanc tidak bisa muncul.
+
+"Itu tampaknya penjelasan yang paling mungkin. Tapi ini terjadi ketika saya mencoba menerima rez, artinya mayat saya harus ada di sana. Saya bertanya-tanya apa yang akan terjadi jika seseorang mengejutkan saya setelah semut mengambil alih zona itu ..."
+
+Blanc mencoba mencarinya di dokumentasi Bantuan, tetapi dia tidak bisa mengetahui bagian mana yang mungkin memiliki jawabannya. Pertanyaan yang disarankan oleh konsol Bantuan mencakup terlalu banyak kategori yang berbeda, dan istilah pencarian samarnya tidak cukup untuk membawanya ke topik Bantuan yang sesuai.
+
+"Mari kita coba 'kondisi untuk kebangkitan' pertama. Pergi."
+
+Kondisi untuk bangkit kembali adalah:
+
+Target harus mati dalam satu jam terakhir.
+Target tidak telah dibangkitkan terlalu banyak kali.
+Harus ada setidaknya 50% dari mayat yang tersisa.
+Kebangkitan tidak dapat terjadi di area tanpa kebangkitan.
+"Saya penasaran tentang kondisi ketiga dan keempat ..."
+
+Dia tidak yakin apakah ada lebih dari 50% mayatnya yang tersisa. Blanc tidak bisa mengingat serangan mana yang akhirnya menjadi fatal, tetapi karena dia mati hampir seketika, dia meragukan itu adalah serangan menggigit. Jika itu adalah asam, maka tergantung pada berapa banyak semut yang melakukan perbuatan itu, mungkin kurang dari setengah tubuhnya yang tersisa setelah beberapa detik berlalu.
+
+Dia tidak tahu bagaimana cara memberi tahu jika suatu area tidak mengizinkan kebangkitan, tetapi mungkin setelah semut menaklukkan gua, itu berubah menjadi area tanpa kebangkitan. Blanc telah membunuh dua semut, meskipun, dan dia cukup yakin mereka tidak bisa muncul kembali tanpa batas. Namun, deklarasi zona hanya menentukan kebangkitan, jadi musuh muncul kembali mungkin tidak terpengaruh.
+
+Tapi kemudian ya, lebih dari setengah mayat Blanc hilang, jadi identifikasi sistem harus memperbarui klasifikasi dari "Mayat Blanc" menjadi "Drops Blanc." Pesan sistem mengatakan "Satu jam sampai kebangkitan otomatis," tetapi jika seseorang mencoba mengejutkannya, mereka mungkin mendapatkan semacam kesalahan. Mungkin dia bisa menerima rez, tetapi dia tidak selalu memenuhi syarat untuk dibangkitkan.
+
+Karena Blanc tidak meninggalkan barang apa pun, kondisi penaklukan semut terpenuhi, dan gua yang dibersihkan menjadi wilayah mereka.
+
+"Sesuatu seperti itu mungkin terjadi ... Sial, saya bersumpah saya akan membersihkan sarang semut itu begitu saya menjadi lebih kuat."
+
+Namun demikian, dia tidak tahu seberapa jauh gua saat ini dari sarang semut. Sebelum dia diperkuat, dia perlu mendapatkan dasar-dasar permainan terlebih dahulu. Kekurangan fondasi itu adalah salah satu alasan dia terus mati karena semut, bisa dibilang.
+
+Senjata Blanc hanya sihir. Dia berpikir bahwa menggunakan [Fire Magic] pada semut adalah berlebihan, dan mungkin musuh awal memiliki kelemahan yang memungkinkan dia untuk menjatuhkan mereka dalam satu serangan. Tapi dia harus menghindari penjagaannya turun. Dia tidak bisa melupakan pelajaran ini yang telah dia pelajari dari semut.
+
+"Saya sudah terbiasa, jadi saya harus siap untuk langsung melempar [Flare Arrow]. Baiklah, pertama itu adalah semut, apa selanjutnya?"
+
+Mendapatkan kembali fokusnya, Blanc mulai menjelajahi gua ini dengan hati-hati. Ini lebih luas dan lebih terang daripada sarang semut. Sama seperti sebelumnya, meskipun, Night Vision-nya melakukan banyak pekerjaan, jadi mungkin sebenarnya agak gelap.
+
+"Jika saya menaklukkan tempat ini, saya bertanya-tanya apakah saya bisa menjadikannya basis saya sendiri? Tempatnya bagus dan terang, jadi akan bagus jika saya bisa."
+
+Tujuan saat ini adalah untuk mengambil alih gua ini. Selama tidak ada pemain lain yang bersaing untuk itu, itu seharusnya tidak mungkin baginya. Juga, selama monster bukan semut.
+
+Saat Blanc berjalan melalui gua, dekorasinya tiba-tiba berubah. Khususnya, dinding berubah dari wajah batu alami yang telanjang menjadi sesuatu yang buatan manusia. Melihat itu, struktur batu tampak sangat tua, karena penuh dengan lubang dan celah dan ditutupi dengan lumut di sini dan di sana.
+
+"Ini terasa ... seperti semacam reruntuhan. Saya senang ini bukan sarang semut lain, tapi ... saya bertanya-tanya apa jenis hewan yang tinggal di reruntuhan."
+
+Meskipun ini adalah area awal, bukan berarti musuh yang mungkin hanya terbatas pada hewan liar, tetapi semut meninggalkan kesan yang begitu kuat sehingga Blanc sekarang hanya bisa membayangkan monster berdasarkan hewan nyata. Plus dia ketakutan, berteriak pada mereka, tidak bisa bereaksi tepat waktu, dan akhirnya mati. Dia merasa sangat tidak dewasa.
+
+"Ah, ada sesuatu di sini ... Uwah! Tubuh?! Apakah ini zombie?! Gyah! Jorok! Berhenti membuat saya melawan omong kosong yang menggigit !!!"
+
+<<Satu jam sampai kebangkitan otomatis. Apakah Anda ingin muncul kembali segera?>>
