@@ -13,6 +13,8 @@ const title = document.getElementById("title");
 const contentElement = document.getElementById("content");
 const nextButton = document.getElementById("nextButton");
 const prevButton = document.getElementById("prevButton");
+const nextButton2 = document.getElementById("nextButton2");
+const prevButton2 = document.getElementById("prevButton2");
 const goButton = document.getElementById("goButton");
 const toggleModeButton = document.getElementById("toggleModeButton");
 const increaseFontSizeButton = document.getElementById(
@@ -163,6 +165,8 @@ themeChange();
 // Add event listeners for the next, previous, go, toggle mode, increase, and decrease buttons
 nextButton.addEventListener("click", nextPage);
 prevButton.addEventListener("click", prevPage);
+nextButton2.addEventListener("click", nextPage);
+prevButton2.addEventListener("click", prevPage);
 goButton.addEventListener("click", goToPage);
 toggleModeButton.addEventListener("click", toggleMode);
 increaseFontSizeButton.addEventListener("click", () =>
