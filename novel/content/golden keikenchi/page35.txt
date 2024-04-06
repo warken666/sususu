@@ -1,0 +1,72 @@
+Golden Experience – 35
+Bab 35: "Deas of Resentment"
+Berdasarkan penyelidikan Riley, pasukan tulang telah muncul dari sesuatu yang mirip gudang senjata di dekat peternakan goblin. Untuk kemudahan, mari kita sebut itu sebagai kuburan.
+
+"Baiklah, saya akan pergi. Sugaru, kamu tetap di sini. Kerry, bagaimana kalau kamu ikut juga?"
+
+"Ya, Bos."
+
+Rare berjalan melalui gua-gua didampingi oleh Kerry. Ketika semut telah memperluas terowongan untuk menghubungkan hutan besar ke padang rumput, mereka memperbesar terowongan tersebut agar ras humanoid dapat berjalan dengan nyaman. Rute bawah tanah ini telah dipasangi pegangan tangan dan, karena tidak ada lampu sama sekali, mereka membuat perjalanan di sepanjang terowongan ini sangat aman setelah Anda terbiasa dengannya.
+
+Dia akhirnya ingin memasang beberapa lampu, tetapi sekarang dia tidak tahu sumber cahaya apa yang tidak menggunakan api. Karena semut menavigasi terowongan bawah tanah menggunakan antena mereka, satu-satunya yang membutuhkan cahaya adalah Rare dan empat gadis catkin, jadi dia akan menunda pemikiran itu untuk nanti.
+
+Saat melanjutkan perjalanan melalui terowongan, Rare berkomunikasi dengan Riley, kemudian memerintahkan Sugaru untuk mengirim infanteri untuk menjaga musuh terkurung di area sekitar kuburan.
+
+Tujuan mereka tidak terlalu jauh dari kamar ratu. Rare dan Kerry akan segera tiba di bawahnya, setelah itu mereka akan menuju pintu yang menuju ke permukaan sehingga mereka bisa bertemu dengan Riley.
+
+Muncul ke dalam kuburan, memang ada pasukan besar musuh bertipe tulang di sana. Namun, dia tidak bisa membedakan kerangka dari jenis monster lainnya hanya dengan sekilas. Sebagian pasukan berada di luar kuburan tetapi diganggu oleh semut, sementara sisanya di dalam kuburan dibatasi oleh semut lainnya dari penyebaran.
+
+"Sangat nyaman. Baiklah, saya akan mencobanya sekarang. [Necromantic Barrier]."
+
+Ketika Rare mengaktifkan [Necromantic Barrier], lingkaran sihir berbentuk setengah bola berkilau hitam muncul di atas area tersebut. Konstruksi sihir sepenuhnya menelan seluruh kuburan, seperti yang dia inginkan. Semua kerangka di dalam lingkaran sihir membeku di tempat, kemudian berbalik sekaligus menghadap Rare, sang penyihir.
+
+Necromantic Barrier
+Buat penghalang di area yang ditentukan. Semua mayat di dalam penghalang berubah menjadi mayat hidup di bawah kendalimu. Jika ada mayat hidup yang bermusuhan di dalam penghalang, penghalang akan melemparkan [Control] pada mereka tanpa biaya. Setiap mayat hidup dapat menolak secara individu. MP Anda dikonsumsi selama penghalang aktif. Jika penghalang dibatalkan atau Anda tidak memiliki cukup MP untuk mempertahankan penghalang, efek [Control] apa pun yang dihasilkan oleh penghalang dibatalkan.
+
+Keterampilan baru ini dibuka setelah belajar [Spatial Awareness] di pohon [Space Magic]. Mengabaikan kondisi untuk membuka [Spatial Awareness], pada dasarnya ini adalah komposit area-of-effect dari [Necromancy], [Bind Soul], dan [Control]. Ini menguras MP-nya seperti gila, tetapi jika dia ingin menekan kelompok besar musuh, ini akan menangani mayat hidup yang lemah. Karena penghalang juga membangkitkan semua mayat, mayat hidup musuh lainnya tidak akan muncul nanti, dan musuh mayat hidup yang menolak [Control] mudah diidentifikasi.
+
+Rare memerintahkan mayat hidup di bawah kendalinya untuk berbaris dan meninggalkan kuburan. Pada saat yang sama, dia memerintahkan Sugaru agar artilerinya menghancurkan semua mayat hidup tersebut. Akan lebih cepat membakar mereka semua menjadi abu dengan alat semprot api, tetapi itu bukan ide yang baik di sini di hutan.
+
+Satu-satunya musuh yang tersisa di kuburan adalah kerangka yang lebih besar yang mengenakan baju zirah hiasan yang sudah rusak; mungkin sangat mewah dulu. Ini adalah satu-satunya monster yang tidak bisa dikendalikan. Karena mempertahankan penghalang adalah pemborosan MP pada titik ini, setelah mengkonfirmasi bahwa mayat hidup yang dikendalikan sebagian besar telah dihancurkan, Rare membatalkan [Necromantic Barrier].
+
+Kerangka terakhir itu tampaknya mencoba menggeram sesuatu. Dia tidak berbicara dengan kata-kata manusia, tetapi, mungkin karena [Necromancy] atau beberapa keterampilan lainnya, sistem memungkinkan Rare untuk entah bagaimana memahami apa yang dia coba katakan. Tentang bagaimana dia tidak akan pernah memaafkan pendiri negara, yang telah mengirim mereka ke hutan ini untuk dibantai.
+
+Menurut kerangka itu, mereka adalah ordo ksatria sebuah negara. Dia tidak tahu negara mana yang dimaksud, tetapi mungkin itu adalah negara mana pun yang kota terdekat miliki, tempat Kerry beroperasi. Berdasarkan apa yang dikatakan pemain Wayne, negara itu akan menjadi [Hiers].
+
+Namun, tampaknya tebakan ini salah. Kerangka itu tidak memiliki pemahaman yang baik tentang waktu, dan dia tidak bisa mengatakan berapa lama dia telah mati, jadi kemungkinan besar negara ini sudah punah. Dia mengatakan bahwa hanya ada satu negara di seluruh benua pada saat itu, jadi jelas itu bukan salah satu dari enam negara saat ini. Dengan kata lain, kerangka ini adalah ksatria dari kerajaan yang hilang, dan seluruh ordo ksatria telah punah di hutan ini.
+
+Dia telah membaca latar belakang sederhana yang menggambarkan enam negara di situs resmi, tetapi tidak pernah ada sebutan tentang adanya satu negara yang bersatu di masa lalu. Jika apa yang dikatakan kerangka ini benar, maka ada lebih banyak sejarah di sini yang belum dipublikasikan secara resmi di situs web. Sangat menarik...
+
+"Jadi apa tujuan kelompokmu? Atau mungkin kamu adalah satu-satunya yang tersisa. Ah, maaf, tetapi bawahanmu baru saja dihancurkan. Saya tidak ingin melanjutkan permusuhan, tetapi keinginanmu mungkin bertentangan dengan milikku. Biarkan saya mendengar apa yang kamu inginkan terlebih dahulu."
+
+Kerangka itu tampaknya ingin balas dendam untuk orang-orangnya, tetapi ini tidak ditujukan kepada Rare. Cara dia melihatnya, seluruh ordo ksatria, termasuk dia sendiri, sudah beristirahat di kuburan ini. Untuk alasan yang tidak diketahui, mereka semua dibangkitkan kembali, tetapi kerangka ini adalah satu-satunya yang mendapatkan kembali rasa dirinya, dan dia ingin membiarkan kawannya tidur dengan tenang di sini. Oleh karena itu, target balas dendamnya adalah mereka yang membunuh ordo-nya, yang bertugas melindungi negara; mereka yang membiarkan negara masa lalu membusuk; mereka yang membagi-bagi negara di antara mereka sendiri; weasel yang tidak tahu malu dan pretensius yang berusaha memerintah benua - dengan kata lain, penguasa saat ini dari enam kerajaan.
+
+Kemungkinan besar, orang-orang spesifik itu telah lama meninggal, tetapi dia tidak yakin apakah dia mengerti itu karena dia tampaknya langsung melompat ke "keturunan mereka adalah musuhku."
+
+Nah, jika ada seseorang yang rasnya memiliki kehidupan yang panjang seperti peri, mungkin mereka akan tahu siapa tulang punggung negara-negara ini pada saat itu.
+
+"Saya mengerti sekarang. Saya ... tidak yakin apakah Anda bisa melihat dari penampilan saya, tetapi saya tidak benar-benar berafiliasi dengan negara mana pun. Anda bisa menganggap saya sebagai semacam penjahat. Saya semacam pemimpin sekelompok bandit, dan sekarang saya juga semacam penguasa kerajaan semut ... Yah, Anda bisa mengatakan bahwa saya agak bertanggung jawab atas sejumlah organisasi."
+
+Kerangka itu tampaknya tidak bermusuhan dengan Rare karena dia hanya diam-diam mendengarkan dia berbicara.
+
+"Sekarang, Anda memiliki sejumlah pilihan di depan Anda. Mari kita lihat ... Pertama, Anda bisa menghadapi kekalahan di sini di tangan pasukan saya. Selanjutnya, Anda bisa menjadi salah satu pengikut saya. Terakhir, Anda bisa meninggalkan hutan ini dan pergi ke mana pun Anda mau."
+
+Meskipun dia tertarik dengan ceritanya, itu bukan sesuatu yang harus dia dengar darinya. Dan jika dia menjadi terkait dengannya, dia akan secara alami menjadi musuh negara-negara manusia. Yah, bukan seperti dia bisa mengatakan hubungannya dengan mereka saat ini positif, jadi itu tidak akan mengubah banyak hal. Mereka memang mengambil alih tambang itu, bagaimanapun.
+
+"Bagaimana ini? Jika Anda memilih untuk menjadi pengikut saya, saya bisa memberi Anda lebih banyak kekuatan. Akan menyenangkan untuk membantu balas dendam Anda terhadap negara-negara manusia juga. Sebagai gantinya, saya ingin Anda mematuhi perintah saya dalam hal lain."
+
+Dia bisa saja memaksakan [Subordinate] padanya, tetapi tidak ada salahnya sesekali berperan sebagai penjahat dan membuat deklarasi seperti ini. Ini adalah permainan, bagaimanapun. Penting untuk menikmati diri sendiri.
+
+<<Musuh Bernama [Deas of Resentment] telah dikalahkan.>>
+
+Deas menjadi pengikut Rare pada saat yang sama ketika dia menerima pengumuman sistem itu. Rasnya adalah [Terror Knight]. Statistik dan keterampilannya sangat baik; dia bukan bos penyerbuan, tetapi dia mungkin percaya bahwa dia adalah bos unik yang cukup kuat. Setelah [Subordinate] berhasil, Rare memperoleh sedikit XP. Mengingat bagaimana dia hampir tidak mendapatkan apa-apa untuk menghancurkan semua kerangka itu dalam pertarungan barusan, itu bisa mengimplikasikan bahwa Deas sebenarnya cukup kuat.
+
+Jika Rare menahan tangannya dan sebaliknya membiarkan semut menimbulkan sebagian besar kerusakan, mereka bisa mendapatkan sejumlah XP yang layak, tetapi tujuan utama adalah untuk menguji [Necromantic Barrier], jadi itu bukan masalah besar. Dengan keterampilan yang begitu khusus, ada sedikit kesempatan untuk menggunakannya dalam pertempuran sebenarnya. Memiliki insiden ini terjadi pada waktu ini cukup tepat.
+
+Meninggalkan beberapa semut untuk membersihkan, semua orang lainnya bersiap untuk kembali ke kamar ratu. Jika mereka menggelandang terlalu lama, matahari akan mulai terbit. Dia bertanya kepada Deas apa yang harus mereka lakukan dengan sisa-sisa kerangka dan semua peralatan yang dikubur di kuburan, tetapi jiwa-jiwa orang-orangnya telah lama hilang, jadi dia mengatakan tidak ada gunanya mengadakan upacara apa pun. Dia tidak tahu apa agama yang dia anut, tetapi jika itu yang dia pikirkan, maka tidak apa-apa untuk hanya meninggalkannya di sana. Goblin pasti akan memanfaatkannya lebih cepat atau lambat.
+
+Jika apa yang dikatakan Deas itu benar, maka mengapa hanya dia yang mendapatkan kembali egonya? Mengapa hanya jiwanya yang tersisa? Dan jika jiwa ksatria lainnya telah lenyap, mengapa tubuh mereka tiba-tiba dibangkitkan sebagai mayat hidup sekarang dari semua waktu?
+
+Tetapi tidak peduli berapa banyak pertanyaan yang dia ajukan, dia tidak memiliki jawaban untuk mereka sekarang ini.
+
+Rare memerintahkan Riley untuk terus mencari monster jenis burung hantu, kemudian meminta Kerry dan Deas untuk mengawalnya kembali ke bawah tanah.
