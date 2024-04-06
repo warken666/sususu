@@ -1,0 +1,52 @@
+Golden Experience – 39
+Bab 39: "Pesan Sistem 2"
+Untuk semua pemain:
+
+Terima kasih telah bermain [Boot Hour, Shoot Curse].
+
+Saat merencanakan acara seluruh server untuk merayakan peluncuran resmi game ini, kami menyadari bahwa akan terlalu sulit untuk menggunakan salah satu area dalam game seperti yang awalnya dimaksudkan.
+
+Untuk mengatasi masalah ini, semua pemain akan diundang ke zona khusus (tanggal dan waktu akan ditentukan) untuk acara PvP battle royale.
+
+Karena perubahan ini, sementara spesifikasi acara asli akan mencegah pemain yang tidak berpartisipasi dalam acara dari login, pemain tersebut sekarang akan dapat login seperti biasa, dan tidak akan ada pembatasan bepergian ke atau dari zona acara khusus.
+
+Pendaftaran untuk acara battle royale akan dibuka hingga pukul 10:00 pagi sehari sebelum acara dimulai. Pemain yang tidak mendaftar untuk acara akan dibatasi ke area penonton dari zona acara khusus.
+
+※Harap diperhatikan bahwa baik medan pertempuran acara khusus dan area penonton akan dipercepat sebesar faktor 6.
+※Untuk tujuan keselamatan, harap hindari perjalanan berlebihan ke dan dari area acara khusus.
+※Sesuai dengan [Neurological Faculty and Mental Safeguard Act], pemain mungkin diminta untuk membaca dan menandatangani peringatan [Cautions and Warnings Regarding the Acceleration of Cognitive Processing] sebelum memasuki zona acara khusus.
+
+Informasi lebih lanjut tentang acara akan diumumkan di situs web resmi pada tanggal yang akan datang.
+
+Kami berharap Anda terus menikmati waktu Anda di [Boot Hour, Shoot Curse]!
+
+Pertanyaan yang Sering Diajukan
+
+Daftar [Pertanyaan yang Sering Diajukan] dan [Tips Pemecahan Masalah] ini telah dikompilasi dari kiriman pemain. Jawaban di halaman ini mungkin dapat menyelesaikan pertanyaan atau masalah Anda, jadi harap periksa di sini sebelum mengajukan pertanyaan. Selain itu, harap diperhatikan bahwa beberapa pertanyaan mengenai konten game atau spesifikasi mungkin tidak dijawab di sini.
+
+Q: Setelah menimpa lokasi respawn Anda dengan yang baru seperti kamar penginapan, apa yang terjadi jika penginapan itu hancur atau lokasi respawn baru lainnya hilang?
+
+A: Anda akan respawn di lokasi respawn sebelumnya. Jika tidak ada lokasi respawn sebelumnya yang tersedia, maka Anda akan muncul secara acak di suatu tempat dalam zona spawn awal Anda.
+
+Q: Apakah ada fitur party atau clan?
+
+A: Party:
+
+[Boot Hour, Shoot Curse] tidak memiliki fitur party. Harap bekerja sama dengan pemain lain atau NPC untuk mengatasi kesulitan. Poin pengalaman diperoleh oleh semua karakter yang berkontribusi dalam pertempuran, dan jumlah yang diperoleh didasarkan pada kontribusi tersebut. Pembagian item drop harus dibahas di antara semua karakter yang terlibat; kami merekomendasikan agar pengaturan ditentukan sebelumnya.
+
+A: Clan:
+
+Tidak ada sistem clan, tetapi dimungkinkan bagi beberapa karakter untuk membeli atau menyewa satu properti. Anda bebas menggunakan lokasi tersebut sebagai basis dan membentuk grup tidak resmi, jadi silakan manfaatkan fitur ini.
+
+Q: Apakah ada sistem pet?
+
+A: Kami tidak dapat menjawab pertanyaan itu.
+
+Q: Bagaimana cara kerja hukuman kematian ketika Anda tidak memiliki cukup poin pengalaman untuk membayar respawn?
+
+A: Ketika Anda respawn, Anda akan diminta untuk memilih skill dan/atau poin stat untuk dikembalikan guna membayar hukuman. Hukuman yang tersisa akan diambil dari poin pengalaman yang tersedia Anda. Jika Anda tidak memiliki cukup poin pengalaman, pengeluaran skill dan/atau poin stat terbaru akan secara otomatis dikembalikan untuk membayar hukuman.
+
+※Layar pengembalian poin skill/stat hanya dapat diakses setelah respawn.
+※Jika skill prasyarat hilang dengan cara ini, semua skill dependen akan secara otomatis dikembalikan juga.
+
+Jika pertanyaan Anda tidak dijawab di halaman ini, silakan kirim pertanyaan menggunakan formulir berikut.
