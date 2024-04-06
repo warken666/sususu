@@ -1,0 +1,77 @@
+Golden Experience – 40
+Bab 40: "Rahasia Alkimia"
+Setelah menghabiskan sejumlah XP untuk mendapatkan semua skill [Enhance Follower] dan skill terkait [Space Magic], Rare tidak lagi mendapatkan XP dari musuh di sekitar hutan besar. Namun, dia masih bisa mendapatkan XP secara tidak langsung melalui skuad semut yang belum ditingkatkan untuk menggiling kelompok goblin. Jumlahnya tidak banyak, tetapi antara itu dan pertanian, pendapatan XP harian tidak terlalu buruk.
+
+Bagaimanapun, dia tidak bertarung dengan apa pun sendiri. Dia sudah lama berhenti khawatir tentang kehilangan XP karena "overleveled". Dengan demikian, mungkin ini saat yang baik untuk mulai mencoba memecahkan skill baru. Rare tenggelam dalam pikiran sambil menonton XP-nya naik dengan sendirinya. Hanya ada satu skill yang menarik minatnya sejak awal yang dia benar-benar ingin diteliti.
+
+Skill itu adalah [Alchemy].
+
+Anda mungkin berpikir ini akan menjadi pohon skill untuk jenis alkimia yang dipopulerkan dalam fiksi modern, tetapi bahkan di media sosial, Anda hanya bisa menemukan diskusi tentang skill [Refine] yang dibuka dari [Pharmacy] dan [Formulate]. Tentu saja, pemain bisa menyembunyikan informasi dengan cara yang sama seperti yang dilakukan Rare dengan [Subordinate], tetapi itu masih berarti Anda tidak bisa menemukan skill baru dengan cara biasa.
+
+Alasan mengapa [Alchemy] menarik perhatian Rare adalah fakta bahwa "homunculus" adalah salah satu ras yang bisa dipilih selama pembuatan karakter. Homunculi adalah makhluk buatan legendaris yang diproduksi melalui alkimia. Alami untuk percaya bahwa ada koneksi di sini dalam game ini juga.
+
+Dalam beta tertutup, homunculi memiliki penampilan manusia yang lebih kecil, dan statistik mereka berada di sekitar level manusia tetapi dengan INT yang lebih tinggi. Itu berarti mereka memiliki lebih banyak statistik keseluruhan daripada manusia, meskipun tidak memerlukan XP tambahan untuk dipilih. Ada demerit besar yang membenarkan ini, meskipun: sementara mereka bisa hidup normal di kota-kota di negara manusia, begitu mereka ditemukan sebagai homunculi, NPC kota akan memperlakukan mereka seperti monster dan mencoba membunuh atau menangkap mereka. Karena pengaturan ini, tampaknya masuk akal untuk memikirkan mereka sebagai "makhluk buatan", sebagai ciptaan alkemis gila menggunakan pengetahuan terlarang.
+
+Rare ingin tahu apakah dia bisa membuka skill [Alchemy] dan menemukan cara untuk memproduksi homunculi.
+
+Untuk saat ini, mari kita pelajari [Formulate]. Jika itu tidak membuka apa pun, maka dia tidak punya pilihan selain mengambil [Pharmacy] juga. Dalam hal apapun, semua XP yang dia miliki pada dasarnya adalah sisa, jadi tidak masalah untuk mengambil mantra sihir non-ofensif yang murah. Hal-hal seperti [Wind Magic]'s [Dessicate] dan [Fire Magic]'s [Heat] terasa seperti mereka bisa terhubung dengan [Alchemy] dengan cara tertentu.
+
+Dimulai dengan [Pharmacy], dia juga harus belajar [Refine], [Dessicate], [Heat], [Wash], [Conduct], [Freeze], dan [Demolish] sebelum dia membuka skill [Alchemy] di pohon [Alchemy]. Butuh usaha yang terlalu banyak hanya untuk mendapatkan skill penamaan pohon [Alchemy].
+
+Segera setelah belajar [Alchemy], dia juga membuka skill [Philosopher’s Egg] dan [Athanor]. Karena mereka muncul dengan sendirinya, itu berarti apa pun prasyaratnya, Rare sudah memenuhinya. Dia tidak tahu apa skill itu, meskipun. Tapi kemudian…
+
+“…Bukankah ini… nama alat?”
+
+Memeriksa teks bantuan, kedua skill itu membaca "Membutuhkan [Magnum Opus] untuk dilempar. Meningkatkan efek [Alchemy]." Bahkan jika itu adalah nama skill prasyarat, deskripsi ini benar-benar tidak membantu.
+
+“Yah, jika saya mengeluh terlalu keras pada titik ini, itu hanya mengundang masalah pada diri saya sendiri…”
+
+Menggoyahkan keraguan, dia belajar [Philosopher’s Egg] dan [Athanor]. Itu menyebabkan skill lain muncul.
+
+“…Dan di situ. [Magnum Opus].”
+
+Jika dia bisa menyempurnakan penggunaan [Magnum Opus], maka, menurut hukum fantasi umum, dia akan dapat membuat alat alkimia tertinggi: Batu Filsuf. Dia tidak yakin apakah mungkin untuk sampai sejauh itu, tetapi karena dia telah sampai sejauh ini, dia maju dan menghabiskan nilai besar 100 XP untuk mempelajari skill itu.
+
+“Menarik… Jadi faktor eksternal utama seperti lingkungan dan kondisi bisa dipengaruhi dengan melengkapinya dengan katalis ajaib, tampaknya. Yang saya butuhkan hanyalah bahan. Selain itu, untuk melempar [Philosopher’s Egg], [Athanor], dan [Magnum Opus] satu demi satu, saya juga membutuhkan sejumlah besar MP. Yah, bukan masalah bagi saya sekarang.”
+
+Rare berpikir dia mungkin membutuhkan bahan "tradisional" homunculus, tetapi, seperti yang diharapkan dari game, persyaratan hanya mencakup berbagai bagian monster dan logam mistis. Sayangnya, beberapa di antaranya tidak dikenal olehnya. Dia mungkin akan belajar lebih banyak tentang bahan-bahan ini begitu dia menemui mereka untuk pertama kalinya dalam game. Satu-satunya bahan yang dia butuhkan lebih banyak informasi adalah [Monster Heart] dan [Soul].
+
+Dia belum pernah melihat [Soul] dalam bentuk item, tetapi dia bertanya-tanya apakah ini adalah jiwa yang dicuri dari mayat selama [Bind Soul].
+
+“Jika itu benar-benar kasusnya, maka itu akan menyiratkan bahwa bahkan kehidupan buatan tidak bisa diproduksi dari absolut tidak ada.”
+
+Karena dia memiliki skill, Rare sekarang dikuasai oleh keinginan bawaan untuk menggunakannya. Hanya satu dari mereka yang bisa digunakan sekarang, meskipun. Meskipun, tidak seperti dengan homunculus, yang satu ini hanya ada nama itu sendiri yang dia tidak tahu.
+
+“Saya bertanya-tanya apakah ini membuat sesuatu. Saya pikir itu mungkin dalam kategori yang sama dengan homunculus, meskipun, semacam makhluk buatan yang hina. Tetapi semua yang dibutuhkan adalah sekelompok logam yang berbeda… Adapun bahan aneh, ada [Knight’s Grudge] ini… Apa itu? Karena saya bisa melihat detailnya, itu berarti saya telah menemukannya sebelumnya.”
+
+Jika itu ada hubungannya dengan ksatria, atau lebih berhubungan dengan dendam, maka Rare tahu satu tempat yang cocok: kuburan ordo ksatria.
+
+“Saya bertanya-tanya apakah ada sesuatu yang jatuh di kuburan itu. Sial, ada begitu banyak barang yang tergeletak di sekitar, tetapi yang saya ingat hanya melihat potongan-potongan baju besi dan perisai dan pedang dan barang-barang semacam itu. Apakah benar-benar ada semacam item khusus di sana?”
+
+<Apakah kita hanya mengumpulkan semua yang bisa kita temukan di sana? Barang apa pun bisa menjadi yang Anda butuhkan, dan jika ternyata tidak ada, itu masih membuktikan bahwa baju besi normal atau tulang tidak diperlukan.>
+
+Sugaru mengobrol dengan Rare sebagai tanggapan atas dia berbicara sendiri. Karena ini, baru-baru ini Rare telah terbiasa berbicara keras-keras lebih sering.
+
+“Ya, mari kita lakukan itu. Maaf, bisakah kamu membuat beberapa semut patroli melakukan itu?”
+
+<Akan dilakukan.>
+
+“Juga, logam. Semua yang ditulis di sini adalah [Refined Metal Ore], saya tidak tahu apakah saya bisa menggunakan apa saja, tetapi… Untuk saat ini, saya ingin logam terbaik yang bisa kita dapatkan dari deposit bijih kita. Sugaru, minta seseorang membawanya ke saya juga.”
+
+<Ya, Bos.>
+
+Deposit di hutan besar awalnya digali oleh NPC di kota, tetapi sekarang mereka berada di bawah kendali Rare, dan pasukannya mengelolanya. Dia tidak tahu apakah ada masalah teknologi atau mereka hanya takut untuk menggali terlalu jauh ke wilayah monster, tetapi manusia hanya melakukan penambangan terbuka yang dangkal.
+
+Namun, dengan seluruh hutan besar sebagai basisnya, dan dengan pasokan semut yang tak ada habisnya untuk menambang, Rare tidak perlu begitu terbatas. Selain itu, semut insinyur bisa melelehkan batu dan mineral dengan asam, tetapi bahan apa pun yang memiliki peringkat lebih tinggi dari semut itu sendiri tidak bisa dilelehkan. Dengan memanfaatkan itu, mereka memperluas semua terowongan dan hanya mengumpulkan semua sisa bijih besi dan perak, serta semua bijih logam ajaib yang tidak dikenal, yang membuat penambangan menjadi sangat efisien. Saat ini, area pusat hutan besar adalah tempat mereka memurnikan logam menggunakan asam dan kokas yang dibuat dari batu bara, dan Remy bertanggung jawab atas itu.
+
+"Ahh, itu benar, saya perlu membuat Remy belajar lebih banyak mantra sihir non-tempur. Seperti dengan [Alchemy], skill baru bisa dibuka di [Blacksmith], [Clothcraft], dan [Leathercraft]."
+
+Tidak lama setelah itu, semut infanteri membawa barang-barang yang diminta.
+
+Ingatlah untuk mencatat bahwa bab 6 diperbarui karena informasi di bab ini membuat saya menyadari beberapa hal yang salah diterjemahkan.
+
+Catatan TL: Bab 6 memiliki beberapa pembaruan kecil sejak bab ini menjelaskan bahwa saya salah menafsirkan beberapa teks. Tidak terlalu penting untuk kembali dan memeriksa kecuali Anda benar-benar tertarik pada sistem permainan.
+
+[1]: Ini tampaknya adalah kesalahan. Di bab 6, penulis menulis bahwa [Formulate] hanya bisa dibuka dengan skill [Pharmacy], tetapi di sini dia belajar itu terlebih dahulu sebelum belajar [Pharmacy].
+
+[2]: Saya percaya dia berbicara tentang skill untuk menciptakan homunculi, tetapi tidak pernah secara eksplisit menjelaskan apa yang dia bicarakan di sini, jadi saya tidak yakin.
