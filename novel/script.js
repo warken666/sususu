@@ -158,6 +158,10 @@ function changeFontSize(action) {
   contentContainer.style.fontSize = `${fontSize}px`;
 }
 
+function scrollToTop() {
+  window.scrollTo({ top: 0 });
+}
+
 // Load initial content
 loadContent(currentPage);
 themeChange();
@@ -165,8 +169,14 @@ themeChange();
 // Add event listeners for the next, previous, go, toggle mode, increase, and decrease buttons
 nextButton.addEventListener("click", nextPage);
 prevButton.addEventListener("click", prevPage);
-nextButton2.addEventListener("click", nextPage);
-prevButton2.addEventListener("click", prevPage);
+nextButton2.addEventListener("click", function () {
+  nextPage();
+  scrollToTop();
+});
+prevButton2.addEventListener("click", function () {
+  scrollToTop();
+  prevPage();
+});
 goButton.addEventListener("click", goToPage);
 toggleModeButton.addEventListener("click", toggleMode);
 increaseFontSizeButton.addEventListener("click", () =>
