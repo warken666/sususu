@@ -1,0 +1,123 @@
+body {
+  background-color: #333;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.3s, color 0.3s;
+  color: white;
+}
+
+#title-container {
+  background: rgb(0, 255, 162);
+  background: linear-gradient(
+    22deg,
+    rgba(0, 255, 162, 1) 0%,
+    rgba(0, 39, 255, 1) 100%
+  );
+  padding: 10px;
+  margin: 20px;
+  border-radius: 3pt;
+}
+
+#title {
+  font-size: 20pt;
+  font-weight: 600;
+  text-align: center;
+  margin: 0;
+}
+
+#sub-title {
+  text-align: center;
+  margin: 0;
+}
+
+.content-container {
+  display: flex;
+  justify-content: space-around; /* Mengatur jarak antar card */
+  padding: 20px;
+}
+.card {
+  cursor: pointer;
+  font-style: italic;
+  width: 30%; /* Atur lebar card */
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  color: black;
+  /* border: 1px solid #ddd; */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Menambahkan sedikit bayangan */
+  margin: 3pt;
+  text-align: center;
+}
+
+.card:hover {
+  /* width: 50%; */
+  background-color: rgb(205, 205, 205);
+}
+
+.card.selected {
+  font-style: normal;
+  background-color: #e49014;
+  font-weight: 700;
+  width: 70%;
+  color: white;
+}
+
+.card.selected:hover {
+  background-color: #db8400;
+}
+
+.card.selected:active {
+  background-color: #ad4e00;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+.input-bar {
+  width: 50%; /* Atur lebar sesuai kebutuhan */
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  margin-right: 10px; /* Tambahkan margin agar tidak menempel dengan tombol */
+}
+.input-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #5cb85c;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#result {
+  margin: 20px;
+  background-color: rgba(0, 0, 0, 0.245);
+  border-radius: 3pt;
+  padding: 15px 20px 17px 20px;
+}
+
+#clipboardButton {
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 3pt;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e49014;
+  padding: 10px;
+  margin: 20px;
+}
+
+#clipboardButton:hover {
+  background-color: #db8400;
+}
+
+#clipboardButton:active {
+  background-color: #ad4e00;
+}

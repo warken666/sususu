@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+    <title>Novel Reader</title>
+  </head>
+  <body>
+    <div id="content-container">
+      <div id="title-container">
+        <div id="title">COPYCAT</div>
+        <div id="sub-title">by susu</div>
+      </div>
+      <div class="content-container">
+        <div class="card selected">Bagas Dribble</div>
+        <div class="card">none</div>
+        <div class="card">none</div>
+      </div>
+      <div class="input-container">
+        <input
+          id="input-text"
+          type="text"
+          class="input-bar"
+          placeholder="Ganti jadi apa bro.."
+        />
+        <button class="input-button" onclick="ambilTeksDanPaste()">
+          Generate
+        </button>
+      </div>
+      <div id="result">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium sit
+        non commodi, saepe, in aperiam libero qui tenetur nihil pariatur
+        mollitia id facilis veritatis repellendus porro quod, odit aliquid cum!
+      </div>
+      <div id="clipboardButton" onclick="copyToClipboard()">
+        SALIN KE CLIPBOARD
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
