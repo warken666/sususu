@@ -1,0 +1,94 @@
+:root {
+	--lebar-layar: 100vw;
+	--skala: 0.075;
+	--lebar-terkali: calc(var(--lebar-layar) * var(--skala));
+}
+
+body {
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 0;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
+#map {
+	width: var(--lebar-layar);
+	margin: 0;
+	/* height: 50%; */
+	/* background-color: rgb(255, 0, 0); */
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 0;
+	justify-content: center;
+	align-items: center;
+	/* translate: 200px; */
+	line-height: 0;
+	/* transform: perspective(2000px) rotateX(45deg) rotateY(0deg) rotateZ(45deg); */
+	transition: transform 0.5s ease, translate 0.5s ease;
+}
+
+#map:hover {
+	/* translate: 0; */
+	transition: transform 0.5s ease, translate 0.5s ease;
+	/* transform: perspective(200px) rotateX(0) rotateY(0); */
+}
+
+.tile {
+	width: var(--lebar-terkali);
+	height: var(--lebar-terkali);
+	border: 1px solid #00000051;
+	/* display: inline-block; */
+	/* margin: 2px; */
+	background-color: rgb(101, 112, 96);
+	opacity: 0;
+	transition: opacity 0.5s ease, translate 1s ease-in, background-color 1s ease-in;
+}
+
+/* 
+.tile:hover {
+	translate: -4px -4px;
+	background-color: rgb(255, 255, 255);
+	transition: opacity 0.5s ease, translate 0.1s ease-out, background-color 0.1s ease-in;
+} */
+
+/* .tile:nth-child(1) {
+	background-color: brown;
+	translate: -4px -4px;
+} */
+
+.titik {
+	/* background-color: rgb(0, 255, 255); */
+	width: 100%;
+	height: 100%;
+	opacity: 0;
+	background-image: url(assets/img1.png);
+	background-size: cover;
+	/* Menutupi seluruh area latar belakang */
+	background-repeat: no-repeat;
+	/* Tidak mengulang gambar */
+	background-position: center;
+	/* Posisi gambar di tengah */
+	/* transform: perspective(2000px) rotateX(-45deg) rotateY(-0deg) rotateZ(-45deg); */
+	transition: opacity 0.5s ease, translate 1s ease-in, background-color 1s ease-in;
+}
+
+.titik2 {
+	background-color: rgb(201, 49, 22);
+	opacity: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url(assets/img1.png);
+	background-size: cover;
+	/* Menutupi seluruh area latar belakang */
+	background-repeat: no-repeat;
+	/* Tidak mengulang gambar */
+	background-position: center;
+	/* Posisi gambar di tengah */
+	/* transform: perspective(2000px) rotateX(-45deg) rotateY(-0deg) rotateZ(-45deg); */
+	transition: opacity 0.5s ease, translate 1s ease-in, background-color 1s ease-in;
+}
