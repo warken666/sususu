@@ -8,6 +8,7 @@ generateTiles()
 // tambahTitikKeTiles(4, 'titik2');
 generateObjectInTile('titik', 0)
 generateObjectInTile('titik2', 7)
+generateObjectInTile('titik3', 60)
 
 
 function generateTiles() {
@@ -67,13 +68,17 @@ function findObjectInTile(obj) {
 	}
 }
 
-function generateObjectInTile(obj, index) {
+function generateObjectInTile(obj, index, dir) {
 	var tiles = document.getElementsByClassName('tile');
 	const titik = document.createElement('div');
 	titik.classList.add(obj)
 
 	tiles[index].appendChild(titik)
 	titik.style.opacity = '1'
+	if (dir == 'right') {
+		titik.style.transform = "scaleX(-1)"
+	}
+
 }
 
 function moveObjectInTile(obj, vector) {
@@ -81,26 +86,71 @@ function moveObjectInTile(obj, vector) {
 	var indexVector = vectorToIndexVector(vector.x, vector.y)
 	var newIndex = objIndex + indexVector
 
+	var dir = 'left'
+
+	if (vector.x > 0) {
+		dir = 'right'
+	}
+	// if (vector.x = 0) {
+	// 	dir = getDirection(obj)
+	// }
+
 	hapusTitikDariTiles(obj)
 
-	generateObjectInTile(obj, newIndex)
-	removeMarkObjectTile()
-	markObjectTile(newIndex)
+	generateObjectInTile(obj, newIndex, dir)
+}
+function moveObjectInTileWithMark(obj, vector) {
+	var objIndex = findObjectInTile(obj)
+	var indexVector = vectorToIndexVector(vector.x, vector.y)
+	var newIndex = objIndex + indexVector
+
+	var dir = 's'
+
+	if (vector.x > 0) {
+		dir = 'right'
+	}
+
+	hapusTitikDariTiles(obj)
+
+	generateObjectInTile(obj, newIndex, dir)
+	removeMarkObjectTile(obj)
+	markObjectTile(newIndex, obj)
 }
 
-function markObjectTile(i) {
+function markObjectTile(i, obj) {
 	var semuaTiles = document.getElementsByClassName('tile');
 
-	semuaTiles[i].classList.add('titik2active')
+	semuaTiles[i].classList.add(String(obj + 'Trail'))
 }
 
-function removeMarkObjectTile() {
+function removeMarkObjectTile(obj) {
 	var semuaTiles = document.getElementsByClassName('tile');
 
 	for (var i = 0; i < semuaTiles.length; i++) {
-		var tiles = semuaTiles[i].classList.remove('titik2active');
+		var tiles = semuaTiles[i]
+		tiles.classList.remove(String(obj + 'Trail'));
 	}
 }
+
+// function getDirection(obj) {
+// 	var semuaTiles = document.getElementsByClassName('tile');
+// 	for (var i = 0; i < semuaTiles.length; i++) {
+// 		var tiles = semuaTiles[i];
+// 		var titik = tiles.getElementsByClassName(obj);
+
+// 		// Loop melalui setiap elemen titik dalam tiles
+// 		while (titik.length > 0) {
+// 			var dir = titik[0].style.transform
+// 			if (dir == 'scaleX(-1)') {
+// 				dir = 'right'
+// 			}
+// 			else {
+// 				dir = 'left'
+// 			}
+// 			return dir
+// 		}
+// 	}
+// }
 
 // // Fungsi untuk menambahkan titik pada tiles tertentu
 // function tambahTitikKeTiles(index, obj) {
@@ -119,10 +169,7 @@ function removeMarkObjectTile() {
 // }
 
 function hapusTitikDariTiles(obj) {
-	// Dapatkan semua elemen dengan kelas "tiles"
 	var semuaTiles = document.getElementsByClassName('tile');
-
-	// Loop melalui setiap elemen tiles
 	for (var i = 0; i < semuaTiles.length; i++) {
 		var tiles = semuaTiles[i];
 		var titik = tiles.getElementsByClassName(obj);
@@ -132,6 +179,7 @@ function hapusTitikDariTiles(obj) {
 			tiles.removeChild(titik[0]);
 		}
 	}
+
 }
 
 function checkCorner(i) {
@@ -198,29 +246,33 @@ function randomMinusOneZeroOne() {
 	return randomNumber - 1;
 }
 
-function randomEnemyMovement() {
+function randomEnemyMovement(obj) {
+	x = randomMinusOneZeroOne()
+	y = randomMinusOneZeroOne()
+	if ((checkCornerObject(obj).cornerRight == true) & (x > 0)) {
+		x = 0
+	}
+	if ((checkCornerObject(obj).cornerLeft == true) & (x < 0)) {
+		x = 0
+	}
+	if ((checkCornerObject(obj).cornerTop == true) & (y < 0)) {
+		y = 0
+	}
+	if ((checkCornerObject(obj).cornerBottom == true) & (y > 0)) {
+		y = 0
+	}
+	moveObjectInTileWithMark(obj, { x, y });
+	numberCheckRepeat(x)
+}
+
+function randomEnemyMovementSet() {
 	if (state == "world") {
-		x = randomMinusOneZeroOne()
-		y = randomMinusOneZeroOne()
-		if ((checkCornerObject('titik2').cornerRight == true) & (x > 0)) {
-			x = 0
-		}
-		if ((checkCornerObject('titik2').cornerLeft == true) & (x < 0)) {
-			x = 0
-		}
-		if ((checkCornerObject('titik2').cornerTop == true) & (y < 0)) {
-			y = 0
-		}
-		if ((checkCornerObject('titik2').cornerBottom == true) & (y > 0)) {
-			y = 0
-		}
-		moveObjectInTile('titik2', { x, y });
-		markObjectTile('titik2', { x, y })
-		numberCheckRepeat(x)
+		randomEnemyMovement('titik2')
+		randomEnemyMovement('titik3')
 	}
 }
 
-setInterval(randomEnemyMovement, 100);
+setInterval(randomEnemyMovementSet, 100);
 
 function cariIndexTileDenganTitik() {
 	// Dapatkan semua elemen dengan kelas "tile"
