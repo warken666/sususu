@@ -1,6 +1,7 @@
 var numberCheck = 0
 
 var state = "world"
+// state = "a"
 
 generateTiles()
 // tambahTitikKeTiles(0, 'titik');
@@ -77,15 +78,28 @@ function generateObjectInTile(obj, index) {
 
 function moveObjectInTile(obj, vector) {
 	var objIndex = findObjectInTile(obj)
-	if ((objIndex / 11 == 1) & ((objIndex - 11) % 12 == 0)) {
-
-	}
 	var indexVector = vectorToIndexVector(vector.x, vector.y)
 	var newIndex = objIndex + indexVector
 
 	hapusTitikDariTiles(obj)
 
 	generateObjectInTile(obj, newIndex)
+	removeMarkObjectTile()
+	markObjectTile(newIndex)
+}
+
+function markObjectTile(i) {
+	var semuaTiles = document.getElementsByClassName('tile');
+
+	semuaTiles[i].classList.add('titik2active')
+}
+
+function removeMarkObjectTile() {
+	var semuaTiles = document.getElementsByClassName('tile');
+
+	for (var i = 0; i < semuaTiles.length; i++) {
+		var tiles = semuaTiles[i].classList.remove('titik2active');
+	}
 }
 
 // // Fungsi untuk menambahkan titik pada tiles tertentu
@@ -201,6 +215,7 @@ function randomEnemyMovement() {
 			y = 0
 		}
 		moveObjectInTile('titik2', { x, y });
+		markObjectTile('titik2', { x, y })
 		numberCheckRepeat(x)
 	}
 }
